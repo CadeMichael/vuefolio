@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Rject",
+        "description": "Rust project manager for the terminal to replace emacs's projectile. Made with Cursive-rs.",
+        "repo": "https://github.com/cademichael/rject",
+        "stars": 12,
+        "lang": "rust"
+    },
+    {
+        "name": "zig.nvim",
+        "description": "Neovim plugin for zig. features include visualizing test output, running, and building.",
+        "repo": "https://github.com/cademichael/zig.nvim",
+        "stars": 19,
+        "lang": "lua"
+    },
+    {
+        "name": "Pylift",
+        "description": "Python cli workout tracker, using click for arg parsing and matplotlib for graphics.",
+        "repo": "https://github.com/cademichael/pylift",
+        "stars": 0,
+        "lang": "python"
+    },
+    {
+        "name": "KissFm",
+        "description": "Terminal file manager written with tui-rs. Made with my good friend Ethan Gumin.",
+        "repo": "https://github.com/ethangumin/kissfm",
+        "stars": 1,
+        "lang": "rust"
+    },
+    {
+        "name": "Personal Website",
+        "description": "Digital portfolio written in Vue with tailwindcss and DaisyUI, hosted on github.",
+        "repo": "https://github.com/cademichael/vuefolio",
+        "stars": 0,
+        "lang": "vue"
+    },
+    {
+        "name": "TheCrypt",
+        "description": "Mobile PGP encryption and key store application written with Flutter and Dart.",
+        "repo": "https://github.com/cademichael/seniorproject",
+        "stars": 0,
+        "lang": "dart"
+    }
+]
