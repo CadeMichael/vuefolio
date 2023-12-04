@@ -24,12 +24,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="inline-block w-6 h-6 stroke-current"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
                     </label>
                 </div>
-                <div tabindex="0" class="hidden lg:avatar navbar-start">
-                    <div class="w-10 mask mask-squircle">
-                        <img :src="getImageUrl('profile','jpg')" alt="Tailwind CSS Navbar component" />
-                    </div>
-                </div>
-                <div class="navbar-center mx-auto">
+                <div class="navbar-start mx-auto">
                     <a class="ml-2 hidden lg:btn lg:btn-ghost lg:text-xl">Cade Lueker</a>
                 </div>
                 <div class="lg:hidden navbar-end">
