@@ -14,7 +14,7 @@
 					</div>
 					<div class="collapse-content">
                                             <p class="text-base font-normal text-gray-500 dark:text-gray-400">- After Graduating I moved to Denver, CO and began working fulltime as a software engineer. Working mainly with JavaScript, Apex, and Salesforce.</p>
-                                                <p class="text-base font-normal text-gray-500 dark:text-gray-400">- I obtained the <b>Salesforce JavaScript Developer Certification</b>, through self study and experience working with both vanilla JS and the Salesforce Lightning web framework to build out front ends within the salesforce ecosystem. For several projects I was tasked with writing Apex code (a wrapper around Java) to make and process API endpoint calls which were then relayed to a front end.</p>
+                                            <p class="text-base font-normal text-gray-500 dark:text-gray-400">- I obtained the <b><a href="./src/assets/cert.pdf" target="_blank" class="underline">Salesforce JavaScript Developer Certification</a></b>, through self study and experience working with both vanilla JS and the Salesforce Lightning web framework to build out front ends within the Salesforce ecosystem. For several projects I was tasked with writing Apex code (a wrapper around Java) to make and process API endpoint calls which were then relayed to a front end.</p>
                                                 <p class="text-base font-normal text-gray-500 dark:text-gray-400">- I was also responsible for writing tests, both unit tests and test scripts. This built upon my experience from being a test framework engineer at Bluescape and aided in my ability to write clean, maintainable code</p>
 					</div>
 				</div>
