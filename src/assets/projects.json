@@ -3,14 +3,14 @@
         "name": "Rject",
         "description": "Rust project manager for the terminal to replace emacs's projectile. Made with Cursive-rs.",
         "repo": "https://github.com/cademichael/rject",
-        "stars": 12,
+        "stars": 13,
         "lang": "rust"
     },
     {
         "name": "zig.nvim",
         "description": "Neovim plugin for zig. features include visualizing test output, running, and building.",
         "repo": "https://github.com/cademichael/zig.nvim",
-        "stars": 19,
+        "stars": 21,
         "lang": "lua"
     },
     {
